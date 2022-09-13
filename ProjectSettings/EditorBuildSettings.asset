@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 0deaa1944bde7e646846d380a87790c6
+  - enabled: 1
+    path: Assets/Scenes/ControlsMenu.unity
+    guid: 7ab3d79b722162d47a48f75ec7a9c556
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 2e466f28eb8ce7a46818aaf017722b83
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/GameWon.unity
+    guid: 61ffdbbfff397c7459748002afef6e53
+  - enabled: 1
+    path: Assets/Scenes/GameLost.unity
+    guid: b60ff9839fde5be49b61d83397d056a9
+  - enabled: 1
+    path: Assets/Scenes/DifficultyOptions.unity
+    guid: 130bbbd97a6837b40b2500d70cdd1a79
+  m_configObjects: {}

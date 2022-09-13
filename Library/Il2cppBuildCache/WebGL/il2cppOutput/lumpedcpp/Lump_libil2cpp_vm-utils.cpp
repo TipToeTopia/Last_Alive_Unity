@@ -1,0 +1,8 @@
+#include "il2cpp-config.h"
+#include "D:\UpdatedUnity\2021.1.23f1\Editor\Data\il2cpp\libil2cpp\vm-utils\BlobReader.cpp"
+#include "D:\UpdatedUnity\2021.1.23f1\Editor\Data\il2cpp\libil2cpp\vm-utils\Debugger.cpp"
+#include "D:\UpdatedUnity\2021.1.23f1\Editor\Data\il2cpp\libil2cpp\vm-utils\NativeDelegateMethodCache.cpp"
+#include "D:\UpdatedUnity\2021.1.23f1\Editor\Data\il2cpp\libil2cpp\vm-utils\NativeSymbol.cpp"
+#include "D:\UpdatedUnity\2021.1.23f1\Editor\Data\il2cpp\libil2cpp\vm-utils\VmStringUtils.cpp"
+#include "D:\UpdatedUnity\2021.1.23f1\Editor\Data\il2cpp\libil2cpp\vm-utils\icalls\mscorlib\System.Threading\Interlocked.cpp"
+#include "D:\UpdatedUnity\2021.1.23f1\Editor\Data\il2cpp\libil2cpp\vm-utils\icalls\mscorlib\System\Math.cpp"
